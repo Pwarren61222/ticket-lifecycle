@@ -42,7 +42,7 @@ Practiced loging in as a help desk professional to view tickets that have been a
 <br />
 
 <p>
-<img src="https://imgur.com/CneIopn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/9BnusHs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Practiced changing the permissions for admins so that diffrernt admins could see certain tickets based on the issue. Gave admins access and removed access from admins based on their department and their technical ability.
