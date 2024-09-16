@@ -26,10 +26,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://imgur.com/mh6GdoI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/rzTg6SB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Practiced creating tickets as if I was the end user to demonstrate and pratice seeing how they are displayed as well as the department that receives ticket to complete it.
+Practiced creating tickets as if I was the end user.
 </p>
 <br />
 
